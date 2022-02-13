@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/sudoku/main.csproj",
+      "projectUniqueName": "/home/runner/csharpsudoku/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/sudoku/main.csproj",
+      "projectPath": "/home/runner/csharpsudoku/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/sudoku/obj/",
+      "outputPath": "/home/runner/csharpsudoku/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"

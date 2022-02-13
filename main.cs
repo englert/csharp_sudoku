@@ -127,7 +127,7 @@ tetszés szerint bővíthető további tagokkal!
                 sw.WriteLine(sor.Kezdo);
             }
             sw.Close();
-            Console.WriteLine($"8. feladat: sodoku{meret}.txt állomány {feladat.Kezdo.Count()} darab feladvánnyal létregozva");
+            Console.WriteLine($"8. feladat: sodoku{meret}.txt állomány {feladat.Kezdo.Count()} darab feladvánnyal létrehozva");
 
             Console.ReadLine();
         }
